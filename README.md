@@ -49,6 +49,8 @@ This is the list of students who successfully completed <strong>Track 1</strong>
 18) SYED AKKEAL JUNIATH S A<br>
 19) Shweta Nandkumar Arbune<br>
 
+Till 4th October, <strong>6 students</strong> have completed <strong>both the tracks</strong> and <strong>19 students</strong> have completed <strong>any one track</strong>.
+
 
 <strong>This is the list updated till 4th october. And till 4pm we daily upadte this repo with all students list who successfully completed tracks.</strong>
 
