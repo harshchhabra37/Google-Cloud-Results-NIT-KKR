@@ -54,7 +54,7 @@ Till 4th October, <strong>6 students</strong> have completed <strong>both the tr
 
 <strong>This is the list updated till 4th october. And till 4pm we daily upadte this repo with all students list who successfully completed tracks.</strong>
 
-<strong>And those who haven't started till yet, you are not late. You still have a lot of time i.e till 27th October, start now. For reference you can watch this video: https://www.youtube.com/watch?v=DBcQ4XwrQBM&t=534s</strong>
+<strong>And those who haven't started till yet, you are not too late. You still have a lot of time i.e till 27th October, start now. For reference you can watch this video: https://www.youtube.com/watch?v=DBcQ4XwrQBM&t=534s</strong>
 
 For any doubts and queries you can contact <strong>Qwiklabs Support</strong>.
 
