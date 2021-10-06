@@ -54,20 +54,10 @@ This is the list of students who successfully completed <strong>Track 1</strong>
 21)	Sahil Saini
 22)	Shweta Nandkumar Arbune
 23)	Mihir Agrawal
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-																								
+												
 <hr>
 
-Till 4th October, <strong>6 students</strong> have completed <strong>both the tracks</strong> and <strong>19 students</strong> have completed <strong>any one track</strong>.
+Till 5th October, <strong>7 students</strong> have completed <strong>both the tracks</strong> and <strong>23 students</strong> have completed <strong>any one track</strong>.
 
 
 <strong>This is the list updated till 4th october. And till 4pm we daily upadte this repo with all students list who successfully completed tracks.</strong>
