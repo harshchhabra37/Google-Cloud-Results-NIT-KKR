@@ -16,7 +16,9 @@ This is the list of students who successfully completed <strong>Track 1</strong>
 3) NIHIT SAHA<br>
 4) Sarvesh Kumar<br>
 5) SYED AKKEAL JUNIATH S A<br>
-6) Shweta Nandkumar Arbune<br><hr>
+6) Shweta Nandkumar Arbune<br>
+7) Yasar Bains<br>
+<hr>
 
 
 
@@ -29,25 +31,41 @@ This is the list of students who successfully completed <strong>Track 1</strong>
 
 <h4>Students Name:</h4>
 
-1) Abhinay Kumar<br>
-2) YASH DINESH BHANUSHALI<br>
-3) Sourav Malik<br>
-4) Sundereshwar Kodi<br>
-5) YERRAM VISHNU DARAHAS REDDY<br>
-6) Vishesh Bindal<br>
-7) Shriram Gaurishankar Ughade<br>
-8) Yasar Bains<br>
-9) ZUKI SULTHANA N<br>
-10) Divyesh Sanjay Mahajan<br>
-11) SIVASELVI N<br>
-12) Manish Amarnath Yadav<br>
-13) Sahil Saini<br>
-14) Rahul Bansal<br>
-15) Sayani Roy<br>
-16) NIHIT SAHA<br>
-17) Sarvesh Kumar<br>
-18) SYED AKKEAL JUNIATH S A<br>
-19) Shweta Nandkumar Arbune<br><hr>
+1) Abhinay Kumar
+2)	YASH DINESH BHANUSHALI
+3)	Sourav Malik
+4)	Khushi Sagraya
+5)	Rahul Bansal
+6)	Sundereshwar Kodi
+7)	Sayani Roy
+8)	YERRAM VISHNU DARAHAS REDDY
+9)	Sarvesh Kumar
+10)	Vishesh Bindal
+11)	Saloni
+12)	Shriram Gaurishankar Ughade
+13)	NIHIT SAHA
+14)	Abhisek Kumar
+15)	Yasar Bains
+16)	ZUKI SULTHANA N
+17)	Divyesh Sanjay Mahajan
+18)	SIVASELVI N
+19)	Manish Amarnath Yadav
+20)	SYED AKKEAL JUNIATH S A
+21)	Sahil Saini
+22)	Shweta Nandkumar Arbune
+23)	Mihir Agrawal
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+																								
+<hr>
 
 Till 4th October, <strong>6 students</strong> have completed <strong>both the tracks</strong> and <strong>19 students</strong> have completed <strong>any one track</strong>.
 
