@@ -18,6 +18,7 @@ This is the list of students who successfully completed <strong>Track 1</strong>
 5) SYED AKKEAL JUNIATH S A<br>
 6) Shweta Nandkumar Arbune<br>
 7) Yasar Bains<br>
+8) Abhinay Kumar<br>
 <hr>
 
 
@@ -31,29 +32,36 @@ This is the list of students who successfully completed <strong>Track 1</strong>
 
 <h4>Students Name:</h4>
 
-1) Abhinay Kumar
-2)	YASH DINESH BHANUSHALI
-3)	Sourav Malik
-4)	Khushi Sagraya
-5)	Rahul Bansal
-6)	Sundereshwar Kodi
-7)	Sayani Roy
-8)	YERRAM VISHNU DARAHAS REDDY
-9)	Sarvesh Kumar
-10)	Vishesh Bindal
-11)	Saloni
-12)	Shriram Gaurishankar Ughade
-13)	NIHIT SAHA
-14)	Abhisek Kumar
-15)	Yasar Bains
-16)	ZUKI SULTHANA N
-17)	Divyesh Sanjay Mahajan
-18)	SIVASELVI N
-19)	Manish Amarnath Yadav
-20)	SYED AKKEAL JUNIATH S A
-21)	Sahil Saini
-22)	Shweta Nandkumar Arbune
-23)	Mihir Agrawal
+1)	Abhinay Kumar
+2)	Aryan Kabra
+3)	Sarthak Mittal
+4)	YASH DINESH BHANUSHALI
+5)	Sourav Malik
+6)	Khushi Sagraya
+7)	Rahul Bansal
+8)	Sundereshwar Kodi
+9)	Sayani Roy
+10)	YERRAM VISHNU DARAHAS REDDY
+11)	Sarvesh Kumar
+12)	Vaibhav kumar dubey
+13)	Vishesh Bindal
+14)	Atla Lalitha Lavanya
+15)	Saloni
+16)	Shriram Gaurishankar Ughade
+17)	NIHIT SAHA
+18)	Abhisek Kumar
+19)	Yasar Bains
+20)	ZUKI SULTHANA N
+21)	Divyesh Sanjay Mahajan
+22)	SIVASELVI N
+23)	Kritika Agrawal
+24)	Lakshay Sharma
+25)	Manish Amarnath Yadav
+26)	SYED AKKEAL JUNIATH S A
+27)	Sahil Saini
+28)	Shweta Nandkumar Arbune
+29)	Aditya Sadanand Jadhav
+30)	Mihir Agrawal
 												
 <hr>
 
