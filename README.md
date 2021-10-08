@@ -72,10 +72,10 @@ This is the list of students who successfully completed <strong>Track 1</strong>
 														
 <hr>
 
-Till 6th October, <strong>8 students</strong> have completed <strong>both the tracks</strong> and <strong>30 students</strong> have completed <strong>any one track</strong>.
+Till 7th October, <strong>12 students</strong> have completed <strong>both the tracks</strong> and <strong>35 students</strong> have completed <strong>any one track</strong>.
 
 
-<strong>This is the list updated till 6th october. And till 4pm we daily upadte this repo with all students list who successfully completed tracks.</strong>
+<strong>This is the list updated till 7th october. And till 4pm we daily upadte this repo with all students list who successfully completed tracks.</strong>
 
 <strong>And those who haven't started till yet, you are not too late. You still have a lot of time i.e till 27th October, start now. For reference you can watch this video: https://www.youtube.com/watch?v=DBcQ4XwrQBM&t=534s</strong>
 
