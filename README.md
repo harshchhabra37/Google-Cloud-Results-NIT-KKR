@@ -65,10 +65,90 @@ This is the list of students who successfully completed <strong>Track 1</strong>
 
 <h4>Students Name:</h4>
 
-
+1)	Abhinay Kumar
+2)	Aryan Kabra
+3)	Sarthak Mittal
+4)	Shreya Goel
+5)	Nikhil Gupta
+6)	Vishal Gupta
+7)	Mohit Ahuja
+8)	YASH DINESH BHANUSHALI
+9)	Subham Choudhury
+10)	Akanksha Milmile
+11)	Mahak Mandlecha
+12)	Tanvi Dahiya
+13)	Yukta Arora
+14)	Charu Goyal
+15)	Kanishk Goel
+16)	VASUDEVAN K B
+17)	Sakshi mishra
+18)	Shalini Maurya
+19)	Sourav Malik
+20)	SWAYAMSHREE MOHANTY
+21)	Khushi Sagraya
+22)	Rahul Bansal
+23)	Sundereshwar Kodi
+24)	Sayani Roy
+25)	YERRAM VISHNU DARAHAS REDDY
+26)	Sarvesh Kumar
+27)	Madan Kumar
+28)	palak thapar
+29)	Vaibhav kumar dubey
+30)	Yuvrajsinh Hareshbhai Zala
+31)	Vishesh Bindal
+32)	Deepansh Makkar
+33)	Vaishnavi Baburao Gahin
+34)	Saloni
+35)	Atla Lalitha Lavanya
+36)	Amarjeet Sinha
+37)	Sohail Alam
+38)	Rishabh Agnihotri
+39)	Shivam kumar singh
+40)	Saloni
+41)	Shriram Gaurishankar Ughade
+42)	Shraddha Dattatray Lokhande
+43)	Vishnu Priya K
+44)	Abhishek Kaushik
+45)	NIHIT SAHA
+46)	Lavanya Jyoti
+47)	Raiwant Raj
+48)	PARAMANAND KUMAR
+49)	Mayank Chaubey
+50)	Sangram Nandkumar Arbune
+51)	Abhisek Kumar
+52)	M.ABDUSH SAMAD
+53)	Yasar Bains
+54)	ZUKI SULTHANA N
+55)	Nisha Kumari
+56)	Divyesh Sanjay Mahajan
+57)	SIVASELVI N
+58)	Kritika Agrawal
+59)	Parteek
+60)	sahil Parashar
+61)	Lakshay Sharma
+62)	Manish Amarnath Yadav
+63)	SYED AKKEAL JUNIATH S A
+64)	Subramanian.p
+65)	Ritish Kumar
+66)	Sahil Saini
+67)	Charu sahare
+68)	Shweta Nandkumar Arbune
+69)	Jay Kanara
+70)	Pawan Gupta
+71)	Mayuresh Balasaheb Shinde
+72)	Aditya Sadanand Jadhav
+73)	Shireen Farhana M
+74)	Jay Ahir
+75)	Aman Sharma
+76)	Tharshana K
+77)	Mihir Agrawal
+78)	Shivam Upadhyay
+79)	SAKET JASUJA
+80)	Alapati Lakshmi Viswanath
+81)	Yogita Jaswani
 <hr>
 
-Till 12th October, <strong>34 students</strong> have completed <strong>both the tracks</strong> and <strong>72 students</strong> have completed <strong>any one track</strong>.
+Till 13th October, <strong>38 students</strong> have completed <strong>both the tracks</strong> and <strong>81 students</strong> have completed <strong>any one track</strong>.
 
 <strong>And those who haven't started till yet, you are not too late. You still have a lot of time i.e till 27th October, start now. For reference you can watch this video: https://www.youtube.com/watch?v=DBcQ4XwrQBM&t=534s</strong>
 
