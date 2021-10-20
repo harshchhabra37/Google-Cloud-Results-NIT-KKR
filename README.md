@@ -14,44 +14,61 @@ This is the list of students who successfully completed <strong>Track 1</strong>
 <h4>Students Name:</h4>
 
 1)	Abhinay Kumar
-2)	Sarthak Mittal
-3)	YASH DINESH BHANUSHALI
-4)	Mahak Mandlecha
-5)	Charu Goyal
-6)	Shalini Maurya
-7)	Sourav Malik
-8)	Khushi Sagraya
-9)	Rahul Bansal
-10)	Sundereshwar Kodi
-11)	Sayani Roy
-12)	YERRAM VISHNU DARAHAS REDDY
-13)	Sarvesh Kumar
-14)	Madan Kumar
-15)	palak thapar
-16)	Vishesh Bindal
-17)	Saloni
-18)	Atla Lalitha Lavanya
-19)	Saloni
-20)	Shriram Gaurishankar Ughade
-21)	Shraddha Dattatray Lokhande
-22)	NIHIT SAHA
-23)	PARAMANAND KUMAR
-24)	Abhisek Kumar
-25)	Yasar Bains
-26)	ZUKI SULTHANA N
-27)	Divyesh Sanjay Mahajan
-28)	SIVASELVI N
-29)	sahil Parashar
-30)	Manish Amarnath Yadav
-31)	SYED AKKEAL JUNIATH S A
-32)	Charu sahare
-33)	Shweta Nandkumar Arbune
-34)	Jay Kanara
-35)	Pawan Gupta
-36)	Mayuresh Balasaheb Shinde
-37)	Jay Ahir
-38)	Mihir Agrawal
-
+2)	Aryan Kabra
+3)	Sarthak Mittal
+4)	Shreya Goel
+5)	Vishal Gupta
+6)	YASH DINESH BHANUSHALI
+7)	Mahak Mandlecha
+8)	Yukta Arora
+9)	Charu Goyal
+10)	Shalini Maurya
+11)	Sourav Malik
+12)	Khushi Sagraya
+13)	Rahul Bansal
+14)	Sundereshwar Kodi
+15)	Sayani Roy
+16)	YERRAM VISHNU DARAHAS REDDY
+17)	Sarvesh Kumar
+18)	Madan Kumar
+19)	palak thapar
+20)	Vishesh Bindal
+21)	Saloni
+22)	Atla Lalitha Lavanya
+23)	Saloni
+24)	Shriram Gaurishankar Ughade
+25)	Tanima pal
+26)	Shivam Upadhyay
+27)	Shraddha Dattatray Lokhande
+28)	Vishnu Priya K
+29)	NIHIT SAHA
+30)	PARAMANAND KUMAR
+31)	Mayank Chaubey
+32)	Sangram Nandkumar Arbune
+33)	Abhisek Kumar
+34)	Yasar Bains
+35)	ZUKI SULTHANA N
+36)	Divyesh Sanjay Mahajan
+37)	SIVASELVI N
+38)	sahil Parashar
+39)	Manish Amarnath Yadav
+40)	SYED AKKEAL JUNIATH S A
+41)	Subramanian.p
+42)	Sahil Saini
+43)	Charu sahare
+44)	Subham Gupta
+45)	Alapati Lakshmi Viswanath
+46)	Yogita Jaswani
+47)	Shweta Nandkumar Arbune
+48)	Jay Kanara
+49)	Pawan Gupta
+50)	Mayuresh Balasaheb Shinde
+51)	Sahil
+52)	Aditya Sadanand Jadhav
+53)	Jay Ahir
+54)	Aman Sharma
+55)	Tharshana K
+56)	Mihir Agrawal
 <hr>
 
 <h3>⚫ Students who successfully completed any one track and became eligible for these prizes</h3>
@@ -177,7 +194,7 @@ This is the list of students who successfully completed <strong>Track 1</strong>
 110)	SAKET JASUJA
 <hr>
 
-Till 13th October, <strong>38 students</strong> have completed <strong>both the tracks</strong> and <strong>81 students</strong> have completed <strong>any one track</strong>.
+Till 19th October, <strong>56 students</strong> have completed <strong>both the tracks</strong> and <strong>110 students</strong> have completed <strong>any one track</strong>.
 
 <strong>And those who haven't started till yet, you are not too late. You still have a lot of time i.e till 27th October, start now. For reference you can watch this video: https://www.youtube.com/watch?v=DBcQ4XwrQBM&t=534s</strong>
 
