@@ -199,3 +199,5 @@ Till 19th October, <strong>56 students</strong> have completed <strong>both the 
 <strong>And those who haven't started till yet, you are not too late. You still have a lot of time i.e till 27th October, start now. For reference you can watch this video: https://www.youtube.com/watch?v=DBcQ4XwrQBM&t=534s</strong>
 
 For any doubts and queries you can contact <strong>Qwiklabs Support</strong>.
+
+You can show some love ❤ by giving a star ⭐ and sharing this repo. For more queries you can contact me [Harsh Chhabra](https://github.com/chhabraharsh37)
