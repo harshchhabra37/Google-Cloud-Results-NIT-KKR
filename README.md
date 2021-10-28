@@ -61,7 +61,7 @@ This is the list of students who successfully completed <strong>Track 1</strong>
 46)	Hannan Afridi
 47)	Rahul Bansal
 48)	Sundereshwar Kodi
-49	)	Shruti Kumbhare
+49)	Shruti Kumbhare
 50)	Sayani Roy
 51)	Ishan Prashant Dushettiwar
 52)	YERRAM VISHNU DARAHAS REDDY
