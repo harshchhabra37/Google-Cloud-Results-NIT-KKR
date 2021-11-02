@@ -18,137 +18,142 @@ This is the list of students who successfully completed <strong>Track 1</strong>
 3)	Raj Nitin Kundur
 4)	Shivam Ahir
 5)	Aryan Kabra
-6)	Sarthak Mittal
-7)	Tarun Singh Yadav
-8)	Shreya Goel
-9)      Vaibhav Bansal
-10)	Nikhil Gupta
-11)	KESHAV KUMAR SINGH
-12)	VIJAY MANOHAR DEVANE
-13)	Gokul Saraswat
-14)	Arghyadeep Mandal
-15)	Shahab Hashmi
-16)	Swikriti Khadke
-17)	Vishal Gupta
-18)	Swetha R K
-19)	Mohit Ahuja
-20)	YASH DINESH BHANUSHALI
-21)	MOHIT KUMAR
-22)	Saravana Prabhu K
-23)	Subham Choudhury
-24)	Chaitanya Rustagi
-25)	Priyam Thakuria
-26)	Akanksha Milmile
-27)	Srikant Shubham
-28)	AKSHAT LAKHARA
-29)	Mahak Mandlecha
-30)	Anshika
-31)	Abhishek Kumar Verma
-32)	Pushpendra Tripathi
-33)	Divyansh Chittranshi
-34)	Vaishnavi Kirti Pardeshi
-35)	Yukta Arora
-36)	Charu Goyal
-37)	Kanishk Goel
-38)	DUN KUMARI
-39)	Abhishek Tiwari
-40)	VASUDEVAN K B
-41)	Shalini Maurya
-42)	Sourav Malik
-43)	SWAYAMSHREE MOHANTY
-44)	Omee Verma
-45)	Khushi Sagraya
-46)	Hannan Afridi
-47)	Rahul Bansal
-48)	Sundereshwar Kodi
-49)	Shruti Kumbhare
-50)	Sayani Roy
-51)	Ishan Prashant Dushettiwar
-52)	YERRAM VISHNU DARAHAS REDDY
-53)	Sarvesh Kumar
-54)	Madan Kumar
-55)	KUKROLIA VIDHI DEEPAKBHAI
-56)	palak thapar
-57)	Sejal Manoj Utekar
-58)	HM Shreya
-59)	Riya Arora
-60)	Ayush Mishra
-61)	Vaibhav kumar dubey
-62)	Yuvrajsinh Hareshbhai Zala
-63)	Vishesh Bindal
-64)	sarmistha das
-65)	Ishita Tandon
-66)	Saloni
-67)	Atla Lalitha Lavanya
-68)	Amarjeet Sinha
-69)	Malleshwari Bhandari
-70)	Chandradeep Chandra
-71)	Sohail Alam
-72)	Rishabh Agnihotri
-73)	Manan Jain
-74)	Shivam kumar singh
-75)	Saloni
-76)	Shriram Gaurishankar Ughade
-77)	Neha Pant
-78)	Tanima pal
-79)	Shivam Upadhyay
-80)	Shraddha Dattatray Lokhande
-81)	Vishnu Priya K
-82)	Srushti Surendra Sonawane
-83)	Abhishek Kaushik
-84)	Mohammed Aathil
-85)	Pragya Gupta
-86)	NIHIT SAHA
-87)	Lavanya Jyoti
-88)	Arpit Gothi
-89)	Raiwant Raj
-90)	PARAMANAND KUMAR
-91)	Mayank Chaubey
-92)	Humanshu Dilipkumar Gajbhiye
-93)	Udit Shekhawat
-94)	ACHITHRA V
-95)	Sangram Nandkumar Arbune
-96)	Pinaksh Kumar
-97)	Abhisek Kumar
-98)	M.ABDUSH SAMAD
-99)	Yasar Bains
-100)	ZUKI SULTHANA N
-101)	Divyesh Sanjay Mahajan
-102)	SIVASELVI N
-103)	Kritika Agrawal
-104)	Muthumari.M
-105)	sahil Parashar
-106)	Lakshay Sharma
-107)	Manish Amarnath Yadav
-108)	SYED AKKEAL JUNIATH S A
-109)	Subramanian.p
-110)	Banuka Vidusanka Paniyan Duwage
-111)	Ritish Kumar
-112)	Shivam Pandey
-113)	Sahil Saini
-114)	Charu sahare
-115)	Soni Savi Bharatkumar
-116)	Subham Gupta
-117)	Alapati Lakshmi Viswanath
-118)	Yogita Jaswani
-119)	Shweta Nandkumar Arbune
-120)	Jay Kanara
-121)	VENKATA SIVA NAGA SUBHASH PENUGONDA
-122)	Rupali Nitin Bharambe
-123)	Rishu Sharma
-124)	Pawan Gupta
-125)	aarti sanjay dhikale
-126)	Mayuresh Balasaheb Shinde
-127)	Sahil
-128)	Aditya Sadanand Jadhav
-129)	Shireen Farhana M
-130)	Jay Ahir
-131)	Aman Sharma
-132)	Srutheeswari .P
-133)	Adish Jain
-134)	Tharshana K
-135)	Mihir Agrawal
-136)	Suriya.M
+6)	SHREYA BANSAL
+7)	Sarthak Mittal
+8)	Tarun Singh Yadav
+9)	Shreya Goel
+10)	Vaibhav Bansal
+11)	Nikhil Gupta
+12)	KESHAV KUMAR SINGH
+13)	VIJAY MANOHAR DEVANE
+14)	Gokul Saraswat
+15)	Arghyadeep Mandal
+16)	Shahab Hashmi
+17)	Swikriti Khadke
+18)	Vishal Gupta
+19)	Swetha R K
+20)	Mohit Ahuja
+21)	YASH DINESH BHANUSHALI
+22)	MOHIT KUMAR
+23)	Saravana Prabhu K
+24)	Subham Choudhury
+25)	Chaitanya Rustagi
+26)	Priyam Thakuria
+27)	Akanksha Milmile
+28)	Srikant Shubham
+29)	AKSHAT LAKHARA
+30)	Mahak Mandlecha
+31)	Anshika
+32)	Abhishek Kumar Verma
+33)	Pushpendra Tripathi
+34)	Divyansh Chittranshi
+35)	Vaishnavi Kirti Pardeshi
+36)	Yukta Arora
+37)	Charu Goyal
+38)	Kanishk Goel
+39)	DUN KUMARI
+40)	Abhishek Tiwari
+41)	VASUDEVAN K B
+42)	Shalini Maurya
+43)	Sourav Malik
+44)	SWAYAMSHREE MOHANTY
+45)	Omee Verma
+46)	Khushi Sagraya
+47)	Hannan Afridi
+48)	Rahul Bansal
+49)	Sundereshwar Kodi
+50)	Shruti Kumbhare
+51)	Sayani Roy
+52)	Ishan Prashant Dushettiwar
+53)	YERRAM VISHNU DARAHAS REDDY
+54)	Sarvesh Kumar
+55)	Madan Kumar
+56)	KUKROLIA VIDHI DEEPAKBHAI
+57)	palak thapar
+58)	Sejal Manoj Utekar
+59)	HM Shreya
+60)	Riya Arora
+61)	Ayush Mishra
+62)	Vaibhav kumar dubey
+63)	Yuvrajsinh Hareshbhai Zala
+64)	Naman Pant
+65)	Vishesh Bindal
+66)	sarmistha das
+67)	Ishita Tandon
+68)	Saloni
+69)	Atla Lalitha Lavanya
+70)	Amarjeet Sinha
+71)	Malleshwari Bhandari
+72)	Chandradeep Chandra
+73)	Sohail Alam
+74)	AFTAB AHAMED BAIG
+75)	Rishabh Agnihotri
+76)	Manan Jain
+77)	Shivam kumar singh
+78)	Saloni
+79)	Shriram Gaurishankar Ughade
+80)	Neha Pant
+81)	Tanima pal
+82)	Shivam Upadhyay
+83)	Shraddha Dattatray Lokhande
+84)	Vishnu Priya K
+85)	Srushti Surendra Sonawane
+86)	Abhishek Kaushik
+87)	Mohammed Aathil
+88)	Pragya Gupta
+89)	NIHIT SAHA
+90)	Lavanya Jyoti
+91)	Arpit Gothi
+92)	Raiwant Raj
+93)	PARAMANAND KUMAR
+94)	Mayank Chaubey
+95)	Humanshu Dilipkumar Gajbhiye
+96)	Udit Shekhawat
+97)	ACHITHRA V
+98)	Sangram Nandkumar Arbune
+99)	Pinaksh Kumar
+100)	Abhisek Kumar
+101)	M.ABDUSH SAMAD
+102)	Yasar Bains
+103)	ZUKI SULTHANA N
+104)	Divyesh Sanjay Mahajan
+105)	SIVASELVI N
+106)	Kritika Agrawal
+107)	Muthumari.M
+108)	sahil Parashar
+109)	Lakshay Sharma
+110)	Manish Amarnath Yadav
+111)	K.AJITH SELVAKUMAR
+112)	SYED AKKEAL JUNIATH S A
+113)	Subramanian.p
+114)	Banuka Vidusanka Paniyan Duwage
+115)	Shubham Prajapati
+116)	Ritish Kumar
+117)	Shivam Pandey
+118)	Sahil Saini
+119)	Charu sahare
+120)	Soni Savi Bharatkumar
+121)	Subham Gupta
+122)	Alapati Lakshmi Viswanath
+123)	Yogita Jaswani
+124)	Shweta Nandkumar Arbune
+125)	Jay Kanara
+126)	VENKATA SIVA NAGA SUBHASH PENUGONDA
+127)	Rupali Nitin Bharambe
+128)	Rishu Sharma
+129)	Pawan Gupta
+130)	aarti sanjay dhikale
+131)	Mayuresh Balasaheb Shinde
+132)	Sahil
+133)	Aditya Sadanand Jadhav
+134)	Shireen Farhana M
+135)	Jay Ahir
+136)	Aman Sharma
+137)	Srutheeswari .P
+138)	Adish Jain
+139)	Tharshana K
+140)	Mihir Agrawal
+141)	Suriya.M
 <hr>
 
 <h3>⚫ Students who successfully completed any one track and became eligible for these prizes</h3>
