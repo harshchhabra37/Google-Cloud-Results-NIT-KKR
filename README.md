@@ -169,7 +169,7 @@ This is the list of students who successfully completed <strong>Track 1</strong>
 
 1)	GUGULOTHU ABHINAV
 2)	Abhinay Kumar
-3	)	Krishan
+3)	Krishan
 4)	Raj Nitin Kundur
 5)	Shivam Ahir
 6)	Saumya Gupta
