@@ -216,4 +216,4 @@ This is the list of students who successfully completed <strong>Track 1</strong>
 
 This is the Final List, <strong>146 students</strong> have sucessfully completed <strong>both the tracks</strong> and <strong> 185 students</strong> have sucessfully completed <strong>a single track</strong>.
 
-You can show some love ❤ by giving a star ⭐ and sharing this repo. For more queries you can contact me [Harsh Chhabra](https://github.com/chhabraharsh37)
+You can show some love ❤ by giving a star ⭐. For more queries you can contact me [Harsh Chhabra](https://github.com/chhabraharsh37)
